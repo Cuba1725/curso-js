@@ -1,0 +1,14 @@
+:root {
+  --color: #f6f6f6;
+  --bgColor: #404040;
+}
+
+body {
+  font-family: sans-serif;
+  color: var(--color);
+  background: var(--bgColor);
+}
+
+h1 {
+  text-align: center;
+}
